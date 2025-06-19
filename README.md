@@ -31,10 +31,11 @@ Generate a Pareto front comparison plot as pareto_front_comparison.png.
 
 
 ## Results
-<image-card alt="Pareto Front" src="Application/Outputs/pareto_front_comparison_M50_N15.png" ></image-card>
-<image-card alt="Pareto Front" src="Application/Outputs/Picture1.jpg" ></image-card>
-<image-card alt="Pareto Front" src="Application/Outputs/3a.png" ></image-card>
-<image-card alt="Pareto Front" src="Application/Outputs/3b.png" ></image-card>
+![alt](Application/Outputs/pareto_front_comparison_M50_N15.png)
+![alt](Application/Outputs/pareto_front_comparison.png)
+![alt](Application/Outputs/Picture1.jpg)
+![alt](Application/Outputs/3a.png)
+![alt](Application/Outputs/3b.png)
 
 
 ## Acknowledgments
